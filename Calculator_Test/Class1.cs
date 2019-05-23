@@ -169,10 +169,10 @@ namespace Calculator_Test
         }
 
         [Test]
-        public void GetMultiplication_Input4and0_Returns0()
+        public void GetMultiplication_Input5and0_Returns0()
         {
             //Arrange 
-            double number1 = 4;
+            double number1 = 5;
             double number2 = 0;
             double expectedResult = number1 * number2;
             Calc testCalc = new Calc(number1, number2);
@@ -181,7 +181,6 @@ namespace Calculator_Test
             //Assert 
             Assert.AreEqual(expectedResult, actualResult);
         }
-
 
     }
 }
