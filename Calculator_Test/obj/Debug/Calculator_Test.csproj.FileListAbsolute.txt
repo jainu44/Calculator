@@ -1,0 +1,13 @@
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\Calculator_Test.dll
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\Calculator_Test.pdb
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\AwesomeCalculator.exe
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\nunit.framework.dll
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\AwesomeCalculator.pdb
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\nunit.framework.pdb
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\bin\Debug\nunit.framework.xml
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\obj\Debug\Calculator_Test.csprojAssemblyReference.cache
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\obj\Debug\Calculator_Test.csproj.CoreCompileInputs.cache
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\obj\Debug\Calculator_Test.csproj.CopyComplete
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\obj\Debug\Calculator_Test.dll
+C:\Users\jainu\Desktop\AwesomeCalculator\Calculator_Test\obj\Debug\Calculator_Test.pdb
